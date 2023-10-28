@@ -28,6 +28,7 @@ urlpatterns = [
     path("aboutus/",views.aboutus),
     path("services/",views.service),
     path("home/",views.home),
+    path("familypack/",views.familypack),
     
 
 ]

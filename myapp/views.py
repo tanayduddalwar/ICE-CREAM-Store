@@ -30,3 +30,5 @@ def contact(request):
 
 def service(request):
     return render(request, "service.html")
+def familypack(request):
+    return render(request,"familypack.html")
